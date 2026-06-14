@@ -1,0 +1,9 @@
+schtasks /create /sc daily /tn "DailyResumeUpload" /tr "C:\Users\prati\PyCharmMiscProject\.venv\Scripts\python.exe C:\Users\prati\PyCharmMiscProject\.venv\Naukri_Projects\Py_Codes\Daily_Resume_Upload.py" /st 08:15 /ru SYSTEM /f
+
+schtasks /query /tn "DailyResumeUpload" /v /fo LIST
+
+
+schtasks /delete /tn "DailyResumeUpload" /f
+
+
+C:\Users\prati\PyCharmMiscProject\.venv\Naukri_Projects\Support_Documents\Resume\Pratik_Thorawade_L2_Network_Security_Engineer_3_Years.pdf
