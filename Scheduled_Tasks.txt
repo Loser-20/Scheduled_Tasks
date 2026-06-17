@@ -7,3 +7,5 @@ schtasks /delete /tn "DailyResumeUpload" /f
 
 
 C:\Users\prati\PyCharmMiscProject\.venv\Naukri_Projects\Support_Documents\Resume\Pratik_Thorawade_L2_Network_Security_Engineer_3_Years.pdf
+
+C:\Users\prati\PyCharmMiscProject\.venv\Naukri_Projects\Support_Documents\Resume\Pratik_Thorawade_L2_Network_Security_Engineer_3__Years.pdf
